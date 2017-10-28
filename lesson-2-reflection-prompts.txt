@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	Initializing repository causes adding .git structure of my project changes. I need it to create new git repository to start tracking changes inside of my project.
+	Initializing repository causes adding .git structure of my project changes. I need it to create new git repository to start tracking changes inside of my project..
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
