@@ -5,8 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+	Staging area represents only files added to commit, repository represents all commits and all project files, working directory represents actual editing files, but not every of them are one logical change that we are putting as one commit. 
+	It offers possibility to compare every stage of work, and control every commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+	I can see files trying to add to commit, including only that files that I want to commit as a logical change. I can use git diff --staged to track my I want to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
